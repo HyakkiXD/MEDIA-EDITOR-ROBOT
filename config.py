@@ -4,12 +4,12 @@ class Config(object):
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = "5213804428:AAErePs3253-4lH2M3o-GsETRGsuq6GGuGo"
 
-    APP_ID = int(os.environ.get("APP_ID", 12345))
+    APP_ID = "6784106"
 
-    API_HASH = os.environ.get("API_HASH", "")
+    API_HASH = "1380685014"
 
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
+    AUTH_USERS = "1380685014 1631286781 1563471393 5108337052"
   
     
