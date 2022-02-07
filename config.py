@@ -8,7 +8,7 @@ class Config(object):
 
     APP_ID = "6784106"
 
-    API_HASH = "1380685014"
+    API_HASH = "b7060e7c133c5b999e3405ec0a4e95f5"
 
     AUTH_USERS = "1380685014"
   
